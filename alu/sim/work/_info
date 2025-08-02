@@ -1,0 +1,80 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/ictc/student_data/quangtrung/07_ss7/alu/sim
+T_opt
+!s110 1749883922
+VdAnZ9`6AE71WBkYCa?WI13
+04 10 4 work test_bench fast 0
+=1-bc2411fb702e-684d1c12-a55b1-3f1cfe
+R1
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+R2
+valu
+Z4 2../rtl/alu.v|../tb/test_bench.v
+Z5 !s110 1749884093
+!i10b 1
+!s100 AE[<LX3c[fBA6?_]Z23fI0
+I7U@HI]bl>d]WLB[K752:H3
+R2
+w1749883887
+8../rtl/alu.v
+F../rtl/alu.v
+!i122 6
+L0 1 45
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z8 !s108 1749884092.000000
+Z9 !s107 ../tb/test_bench.v|../rtl/alu.v|
+Z10 !s90 -f|compile.f|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vtest_bench
+R4
+R5
+!i10b 1
+!s100 `R`;n6ZL0lNBEF99hLM[`3
+Iog46mJnPWc^99jEIzLXE42
+R2
+w1749880367
+8../tb/test_bench.v
+F../tb/test_bench.v
+!i122 6
+L0 3 129
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3

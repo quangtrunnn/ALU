@@ -1,0 +1,12 @@
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+Start time: 14:21:08 on Jun 14,2025
+vlog -f compile.f 
+-- Compiling module alu
+** Error: (vlog-13069) ../rtl/alu.v(49): near "=": syntax error, unexpected '=', expecting '('.
+** Error: (vlog-13069) ../rtl/alu.v(52): near "else": syntax error, unexpected else.
+** Error: ../rtl/alu.v(54): (vlog-13205) Syntax error found in the scope following 'negative'. Is there a missing '::'?
+-- Compiling module test_bench
+** Error: (vlog-13069) ../rtl/alu.v(54): near "EOF": syntax error, unexpected end of source code.
+** Error: ../rtl/alu.v(54): (vlog-13205) Syntax error found in the scope following 'd'. Is there a missing '::'?
+End time: 14:21:08 on Jun 14,2025, Elapsed time: 0:00:00
+Errors: 5, Warnings: 0
